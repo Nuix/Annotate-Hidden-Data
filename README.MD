@@ -3,7 +3,7 @@ Annotate Hidden Data
 
 ![Last tested in Nuix 7.4](https://img.shields.io/badge/Nuix-7.4-green.svg)
 
-View the GitHub project [here](https://github.com/NuixSDK/Annotate-Hidden-Data) or download the latest release [here](https://github.com/NuixSDK/Annotate-Hidden-Data/releases).
+View the GitHub project [here](https://github.com/Nuix/Annotate-Hidden-Data) or download the latest release [here](https://github.com/Nuix/Annotate-Hidden-Data/releases).
 
 # Overview
 
